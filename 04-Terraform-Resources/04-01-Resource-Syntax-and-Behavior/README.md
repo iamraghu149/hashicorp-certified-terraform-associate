@@ -54,7 +54,7 @@ Observation:
 - **Important Note:** Here we have seen example for **Create Resource**
 
 
-## Step-05: Understanding Terraform State File
+## Step-05: Understanding Terraform State File:
 - What is Terraform State ? 
   - It is the primary core thing for terraform to function
   - In a short way, its the underlying database containing the resources information which are provisioning using Terraform
