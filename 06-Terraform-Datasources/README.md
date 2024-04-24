@@ -22,7 +22,7 @@
   ami           = data.aws_ami.amzlinux.id 
 ```
 
-## Step-04: Test using Terraform commands
+## Step-04: Test using Terraform commands:
 ```t
 # Initialize Terraform
 terraform init
