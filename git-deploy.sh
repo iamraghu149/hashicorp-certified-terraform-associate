@@ -6,3 +6,4 @@ git commit -am "Welcome to StackSimplify"
 
 echo "Pushing to Github Repository"
 git push
+
