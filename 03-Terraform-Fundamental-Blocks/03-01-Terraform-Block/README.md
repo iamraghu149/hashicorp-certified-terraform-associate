@@ -57,7 +57,7 @@ terraform init -upgrade
 
 ## Step-05: Clean-Up
 ```
-# Delete Terraform Folders & Files
+# Delete Terraform Folders & Files:
 rm -rf .terraform*
 ```
 
