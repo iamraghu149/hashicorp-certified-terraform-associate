@@ -21,7 +21,7 @@
   - Click on **Create Folder**
 
 
-## Step-03: Terraform Backend Configuration
+## Step-03: Terraform Backend Configuration:
 - **Reference Sub-folder:** terraform-manifests
 - [Terraform Backend as S3](https://www.terraform.io/docs/language/settings/backends/s3.html)
 - Add the below listed Terraform backend block in `Terrafrom Settings` block in `main.tf`
