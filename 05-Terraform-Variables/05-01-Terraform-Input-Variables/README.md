@@ -20,7 +20,7 @@ argument `-var-file`
 - In all the templates listed below V1 to V12, we will be using `key_name      = "terraform-key"` incase if you want to login to EC2 Instance you can use this key
 
 
-## Step-01: Input Variables Basics 
+## Step-01: Input Variables Basics: 
 - **Reference Sub folder:** v1-Input-Variables-Basic
 - Create / Review the terraform manifests
   - c1-versions.tf
